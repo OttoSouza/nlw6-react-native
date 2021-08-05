@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nlw-6-rn",
+    "slug": "nlw-6-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nlw-6-rn"
+}
