@@ -34,6 +34,7 @@ Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jog
 -   [ ] React Native
 -   [ ] Typescript
 -   [ ] Expo
+-   [ ] Styled Component
 -   [ ] Context API
 -   [ ] Async Storage
 -   [ ] Vector Icons
