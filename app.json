@@ -3,6 +3,12 @@
     "name": "nlw-6-rn",
     "slug": "nlw-6-rn",
     "version": "1.0.0",
+    "scheme": "gameplay",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#0A1033",
+      "resizeMode": "contain"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
